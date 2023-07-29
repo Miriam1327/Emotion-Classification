@@ -1,6 +1,6 @@
 # Emotion Classification
 
-This repository contains the data and code for the implementation of the emotion classification task from the CL team lab in summer 2023 at the University of Stuttgart by Miriam Segiet and Linnet Moxon.
+This repository contains the code for the implementation of the emotion classification task from the CL team lab in summer 2023 at the University of Stuttgart by Miriam Segiet and Linnet Moxon.
 
 The baseline consists of a Naive Bayes classifier in a bag of words approach with Laplace smoothing.<br>
 The advanced models incorporate more information for emotion classification to investigate the impact.
